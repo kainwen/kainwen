@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**kainwen/kainwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```erlang
+-module(kainwen).
+-compile(export_all).
 
-Here are some ideas to get you started:
+name() ->
+    "Zhenghua Lyu".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+job() ->
+    {greenplum_developer, '@', vmware}.
+
+hobby() ->
+    [
+     wrestling,
+     go_game,
+     basketball
+    ].
+
+doing() ->
+    [
+     paip_in_erlang,
+     logic_of_science,
+     math_paper_for_database
+    ].
+
+quotes() ->
+    {"我想让事情是它本来该有的那个样子。", "龙文章"}.
+```
