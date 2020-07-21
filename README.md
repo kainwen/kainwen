@@ -19,11 +19,11 @@ hobby() ->
 
 doing() ->
     [
-     paip_in_erlang,
      logic_of_science,
-     math_paper_for_database
+     lcc,
+     tpcds_performance
     ].
 
 quotes() ->
-    {"我想让事情是它本来该有的那个样子。", "龙文章"}.
+    "我想让事情是它本来该有的那个样子。".
 ```
