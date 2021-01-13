@@ -20,7 +20,7 @@ hobby() ->
 doing() ->
     [
      logic_of_science,
-     reinformance learning,
+     reinformance_learning,
      tpcds_performance
     ].
 
