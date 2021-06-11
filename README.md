@@ -19,9 +19,8 @@ hobby() ->
 
 doing() ->
     [
-     logic_of_science,
-     reinformance_learning,
-     tpcds_performance
+       sigmod_papers,
+       computer_architecture
     ].
 
 quotes() ->
