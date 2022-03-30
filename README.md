@@ -19,8 +19,8 @@ hobby() ->
 
 doing() ->
     [
-       sigmod_papers,
-       computer_architecture
+       greenplum,
+       abstract_algebra
     ].
 
 quotes() ->
