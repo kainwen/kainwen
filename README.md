@@ -20,7 +20,7 @@ hobby() ->
 doing() ->
     [
        greenplum,
-       abstract_algebra
+       automata
     ].
 
 quotes() ->
