@@ -20,8 +20,8 @@ hobby() ->
 doing() ->
     [
        greenplum,
-       'GEB',
-       programming_language
+       cps,
+       math
     ].
 
 quotes() ->
